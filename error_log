@@ -1,0 +1,645 @@
+[26-Apr-2020 15:51:53 America/Sao_Paulo] Response is: Array
+(
+    [encKey] => lOkjiru4Bb4b8zcf6RgNJDn6ajDvMbkNNlp8pLFIXsdLyvg8w6LXa5ViRsr65NJroa15lbNj5lARCeXI1wZEmcw/mHWbx587MIV0bGpaD+75Na5xMY/gHQMAQrSaBBYn
+    [encPaymentData] => ZVlp4BJ7RD/evL50iEF8gESJnAlHq9+0/Hzl0AEwJoFExQmrDecWr71xOA0fS3v0K16STHz7ThxGGawJZ0Vl7u0L29kTGAY7KMmjA8BceckFvRyH0PttxRiFno4imB6OTyUOH57QtDkNE5KmbnUkZCn0Kp9bsUnBB5lK3RcIJ3eCzmA+H4hsBt5fjDuNKeOTUdSYaWoNbctGQkPkB8y1X46fYWKKLllW6BuMnBN4fHGmcPJAovTR+BLz9A7fjtNBbvHbrcWXXU0htJkHzCcyJboKPtVuqdpNZTS3hkf2QsyA6hTkwECoWMSeEWihbM3sHyt5AYWLrMgBq2IQJqGeWBRMJF7ESR+3MNB2NthBmloR11S02t3ApRG1mBCYg8yHwYJmLi1WRCvUnakntUk8xCb3FYrF7VVjZsgD+qdu3giLrr2B1DYBKK6mmuY4SSNJ48EdV/BMB/tqJNACMjOnqHyXRdzFbG2AWt3Bw5Ts9jteLZvrq9ervsUe2fsu4lfd5mCwShwzyNsz3DGE7t2VE8FsRh/YcziyUvycd8KIJYu3SB9z1IwDEScXCzPIXpBAPT+Q+PPX8nRMTsFbTkfXGYfccOVQCnHI/5LBxk0UllUX818Qar1W8qj/Icm4pAXx72L1tFyCF3iLvcZ9b7i7lky7yg+ixh9yspuOm9ViSZBiW6Ajy3WrIoNiYpVKtoy4RT7sd+/MyKr7d0Fl3S+ge8WfUzSSqYcGXnpREGURGgaAZKUqgUy91I8ZZTnO5Phtg5MrR9POx2UKJo4hg9wb3OQ35Ozupi8vfCgil1GF2uun44xNx+yTpJvkcTHWHZ2hvrT4sYaUlYlMQ9WZUh8ePoEiI4UlLke1FqGfRiiS/wWltA2GLLt+BVzthiQaNEoC1d7T0SuFlcbQ8obBNMBHEjqe5PJu1CU66Ddr3zrmrlTIMtHLWQvMLCTFBv3jGCFy6oa9v1lvXMn182BX8MFrPC+uqqess7gcZFojPazlaIryq1/nmLN/g+13764yddnA0v06IjapTaRfM6Y3hHcEpko/BZLuQjfoEt7xkSn4DDjGt49rgkLw/HkwIts+RDYhppv/loSjpXq44TJrv9Gaa8KelFHBx0Sz+lxljLWBO5ZIu66eGRjkDfLOLwCOpOQDaXjFwh53k3VIVL6KXYLssLqSUSfMC13juz5MP60sfCtXXpYxt9lFCqtLR8jdhzretPfxenjonKQE8kl7txG1yHFO4k8Ycdj8R2q9CWzd4d9vg5/IrcsLml4bImpTJWK4NQUozK6Sui7Bxy/yIgbKgws0txR9s144YD1QKnGcKbRP1dHjtamk3I02K35JhHiCUYjhgSXS9biAGhkgpypy/RodMfwU4Iv+VkbvTmZBkLO7P7Jj1sUB0S5C3AVaL6xusXkJxvpJ3Lkw9lvPuiBXFYGg0bqcc5Cl6+OwhXTaS+C7FjbVUmd+XmZzu4R+JbqEar7PVzMrJhPIzUvr43S/O1L/37hPtx8USNgnRwa9mOMV9GQAfN3wphDW8CwahZ3XYeQHFh+iRXPNTOCFkhtGQc6ntLzQ6xAIvK6j44oCuakMNHObQe34gis+uPDfcUAMUmmwzWPdGTosRTSrPT5zOBs/yEBS9FN2nNjlZsEJ7VG800Fcm1fhPLXSQG5tRtyzyE6Ldd0V+6RbUUkc2DvSlt5eeNsxaPQNBCGDkZ6Z+cUadFSVAESxd3C7O0M9uWuaXbQgb2lopVDTPZ9S/7e3eeNyOW8nO1wOo+q1VseaFkG/eIDC8iKCPCxgEfW37apLAHTVuljQTfCTp0rgIKgG40lCUjaUqAh9l7O6ZetPPlMiV9vI9YNbgcr4nLm9h1Tr/qBW7LGY0mZJ2FTFSZ64e92IyXGwkd3QFiNWrC8RZqral2/Jh7UG3OukOt0S6aTzYr0gA979aBqUu4x7Bsi73/1FN0KRI+iVKdJuc1AZa75xxw/KAoX9T0PmK1lrfbRB
+    [partialPaymentInstrument] => Array
+        (
+            [lastFourDigits] => 4821
+            [paymentType] => Array
+                (
+                    [cardBrand] => VISA
+                    [cardType] => CREDIT
+                )
+
+        )
+
+    [paymentMethodType] => PAN
+    [callid] => 8580768358210259901
+    [vInitRequest] => Array
+        (
+            [apikey] => SQUA4E7EW5NW5P7TAEO621VbxRy5FyaFtgdf7U4Z2qepr7tY8
+            [encryptionKey] => GREE00F9BV2T40ZSMKQY13pX7H0FpT0rTuJkR5OWpDtMVdjRI
+            [settings] => Array
+                (
+                    [logoUrl] => https://www.amazonica.belem.br/imagens/logo.jpg
+                    [widgetStyle] => OVERLAY
+                    [buttonPosition] => RELATIVE
+                    [shipping] => Array
+                        (
+                            [collectShipping] => false
+                            [acceptedRegions] => Array
+                                (
+                                    [0] => BR
+                                )
+
+                        )
+
+                    [payment] => Array
+                        (
+                            [billingCountries] => Array
+                                (
+                                    [0] => PR
+                                    [1] => PT
+                                    [2] => PW
+                                    [3] => PY
+                                    [4] => QA
+                                    [5] => AC
+                                    [6] => AE
+                                    [7] => AF
+                                    [8] => AG
+                                    [9] => AI
+                                    [10] => AL
+                                    [11] => AM
+                                    [12] => AN
+                                    [13] => AO
+                                    [14] => AR
+                                    [15] => AS
+                                    [16] => AT
+                                    [17] => RE
+                                    [18] => AU
+                                    [19] => AW
+                                    [20] => AX
+                                    [21] => AZ
+                                    [22] => RO
+                                    [23] => BA
+                                    [24] => BB
+                                    [25] => RS
+                                    [26] => BD
+                                    [27] => RU
+                                    [28] => BE
+                                    [29] => BF
+                                    [30] => RW
+                                    [31] => BG
+                                    [32] => BH
+                                    [33] => BI
+                                    [34] => BJ
+                                    [35] => BM
+                                    [36] => BN
+                                    [37] => BO
+                                    [38] => SA
+                                    [39] => SB
+                                    [40] => SC
+                                    [41] => BR
+                                    [42] => BS
+                                    [43] => SE
+                                    [44] => BT
+                                    [45] => SG
+                                    [46] => SH
+                                    [47] => BW
+                                    [48] => SI
+                                    [49] => SJ
+                                    [50] => BY
+                                    [51] => BZ
+                                    [52] => SK
+                                    [53] => SL
+                                    [54] => SM
+                                    [55] => SN
+                                    [56] => SO
+                                    [57] => CA
+                                    [58] => SR
+                                    [59] => CC
+                                    [60] => CD
+                                    [61] => ST
+                                    [62] => CF
+                                    [63] => SV
+                                    [64] => CG
+                                    [65] => CH
+                                    [66] => CI
+                                    [67] => SZ
+                                    [68] => CK
+                                    [69] => CL
+                                    [70] => CM
+                                    [71] => CN
+                                    [72] => CO
+                                    [73] => TA
+                                    [74] => CR
+                                    [75] => TC
+                                    [76] => TD
+                                    [77] => TF
+                                    [78] => CV
+                                    [79] => TG
+                                    [80] => TH
+                                    [81] => CX
+                                    [82] => CY
+                                    [83] => TJ
+                                    [84] => CZ
+                                    [85] => TK
+                                    [86] => TL
+                                    [87] => TM
+                                    [88] => TN
+                                    [89] => TO
+                                    [90] => TR
+                                    [91] => TT
+                                    [92] => DE
+                                    [93] => TV
+                                    [94] => TW
+                                    [95] => DJ
+                                    [96] => TZ
+                                    [97] => DK
+                                    [98] => DM
+                                    [99] => DO
+                                    [100] => UA
+                                    [101] => UG
+                                    [102] => DZ
+                                    [103] => US
+                                    [104] => EC
+                                    [105] => EE
+                                    [106] => EG
+                                    [107] => UY
+                                    [108] => UZ
+                                    [109] => VA
+                                    [110] => ER
+                                    [111] => VC
+                                    [112] => ES
+                                    [113] => VE
+                                    [114] => ET
+                                    [115] => VG
+                                    [116] => VI
+                                    [117] => VN
+                                    [118] => VU
+                                    [119] => FI
+                                    [120] => FJ
+                                    [121] => FK
+                                    [122] => FM
+                                    [123] => FO
+                                    [124] => FR
+                                    [125] => WF
+                                    [126] => GA
+                                    [127] => GB
+                                    [128] => WS
+                                    [129] => GD
+                                    [130] => GE
+                                    [131] => GF
+                                    [132] => GG
+                                    [133] => GH
+                                    [134] => GI
+                                    [135] => GL
+                                    [136] => GM
+                                    [137] => GN
+                                    [138] => GP
+                                    [139] => GQ
+                                    [140] => GR
+                                    [141] => GT
+                                    [142] => GU
+                                    [143] => GW
+                                    [144] => GY
+                                    [145] => HK
+                                    [146] => HN
+                                    [147] => HR
+                                    [148] => YE
+                                    [149] => HT
+                                    [150] => HU
+                                    [151] => ID
+                                    [152] => YT
+                                    [153] => IE
+                                    [154] => IL
+                                    [155] => IM
+                                    [156] => IN
+                                    [157] => IO
+                                    [158] => ZA
+                                    [159] => IQ
+                                    [160] => IS
+                                    [161] => IT
+                                    [162] => ZM
+                                    [163] => JE
+                                    [164] => ZW
+                                    [165] => JM
+                                    [166] => JO
+                                    [167] => JP
+                                    [168] => KE
+                                    [169] => KG
+                                    [170] => KH
+                                    [171] => KI
+                                    [172] => KM
+                                    [173] => KN
+                                    [174] => KR
+                                    [175] => KW
+                                    [176] => KY
+                                    [177] => KZ
+                                    [178] => LA
+                                    [179] => LB
+                                    [180] => LC
+                                    [181] => LI
+                                    [182] => LK
+                                    [183] => LR
+                                    [184] => LS
+                                    [185] => LT
+                                    [186] => LU
+                                    [187] => LV
+                                    [188] => LY
+                                    [189] => MA
+                                    [190] => MC
+                                    [191] => MD
+                                    [192] => ME
+                                    [193] => MG
+                                    [194] => MH
+                                    [195] => MK
+                                    [196] => ML
+                                    [197] => MN
+                                    [198] => MO
+                                    [199] => MP
+                                    [200] => MQ
+                                    [201] => MR
+                                    [202] => MS
+                                    [203] => MT
+                                    [204] => MU
+                                    [205] => MV
+                                    [206] => MW
+                                    [207] => MX
+                                    [208] => MY
+                                    [209] => MZ
+                                    [210] => NA
+                                    [211] => NC
+                                    [212] => NE
+                                    [213] => NF
+                                    [214] => NG
+                                    [215] => NI
+                                    [216] => NL
+                                    [217] => NO
+                                    [218] => NP
+                                    [219] => NR
+                                    [220] => NU
+                                    [221] => NZ
+                                    [222] => OM
+                                    [223] => PA
+                                    [224] => PE
+                                    [225] => PF
+                                    [226] => PG
+                                    [227] => PH
+                                    [228] => PK
+                                    [229] => PL
+                                    [230] => PM
+                                    [231] => PN
+                                )
+
+                        )
+
+                )
+
+            [paymentRequest] => Array
+                (
+                    [currencyCode] => BRL
+                    [total] => 10.00
+                )
+
+            [parentUrl] => https://www.amazonica.belem.br/testapi/
+            [browserLocale] => pt_BR
+            [clientId] => 5bd0f2f0-a6ce-19f0-2b79-1ef92e0c3e02
+            [allowEnrollment] => 1
+            [formFactorMerchantOverride] => 
+            [uxByFormFactor] => Array
+                (
+                    [web] => RXO
+                    [sdkLite] => RXO
+                    [hybridWeb] => RXO
+                    [other] => RXO
+                )
+
+            [allowCustomBranding] => 
+            [guestCheckout] => 
+            [currencyFormat] => currencyCode ###.###.###,##
+            [srcDisabledCountries] => AE,AR,AS,AU,AW,BE,BG,CA,CH,CL,CN,CO,CR,CX,DE,DK,ES,FI,FO,FR,GE,GF,GL,GR,GS,GU, GW,GY,HK,HR,IE,IN,IS,IT,JP,KW,ME,MY,NL,NO,NZ,PL,PR,PS,PT,PW,PY,QA,QR,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SH,SR,TF,TG,TH,TJ,TK,TR,TT,TW,UA,UM,VC,VG,VI,ZA
+            [enableUserDataPrefill] => 
+            [logoUrl] => https://www.amazonica.belem.br/imagens/logo.jpg
+            [displayName] => Associacao Amazonica
+        )
+
+)
+
+[26-Apr-2020 15:51:53 America/Sao_Paulo] Secret: UVzW2jTtg8wNyYTWN1kOsihzHYJrxcwKD7AV2q@}
+[26-Apr-2020 15:51:53 America/Sao_Paulo] encKey: lOkjiru4Bb4b8zcf6RgNJDn6ajDvMbkNNlp8pLFIXsdLyvg8w6LXa5ViRsr65NJroa15lbNj5lARCeXI1wZEmcw/mHWbx587MIV0bGpaD+75Na5xMY/gHQMAQrSaBBYn
+[26-Apr-2020 15:51:53 America/Sao_Paulo] encPaymentData: ZVlp4BJ7RD/evL50iEF8gESJnAlHq9+0/Hzl0AEwJoFExQmrDecWr71xOA0fS3v0K16STHz7ThxGGawJZ0Vl7u0L29kTGAY7KMmjA8BceckFvRyH0PttxRiFno4imB6OTyUOH57QtDkNE5KmbnUkZCn0Kp9bsUnBB5lK3RcIJ3eCzmA+H4hsBt5fjDuNKeOTUdSYaWoNbctGQkPkB8y1X46fYWKKLllW6BuMnBN4fHGmcPJAovTR+BLz9A7fjtNBbvHbrcWXXU0htJkHzCcyJboKPtVuqdpNZTS3hkf2QsyA6hTkwECoWMSeEWihbM3sHyt5AYWLrMgBq2IQJqGeWBRMJF7ESR+3MNB2NthBmloR11S02t3ApRG1mBCYg8yHwYJmLi1WRCvUnakntUk8xCb3FYrF7VVjZsgD+qdu3giLrr2B1DYBKK6mmuY4SSNJ48EdV/BMB/tqJNACMjOnqHyXRdzFbG2AWt3Bw5Ts9jteLZvrq9ervsUe2fsu4lfd5mCwShwzyNsz3DGE7t2VE8FsRh/YcziyUvycd8KIJYu3SB9z1IwDEScXCzPIXpBAPT+Q+PPX8nRMTsFbTkfXGYfccOVQCnHI/5LBxk0UllUX818Qar1W8qj/Icm4pAXx72L1tFyCF3iLvcZ9b7i7lky7yg+ixh9yspuOm9ViSZBiW6Ajy3WrIoNiYpVKtoy4RT7sd+/MyKr7d0Fl3S+ge8WfUzSSqYcGXnpREGURGgaAZKUqgUy91I8ZZTnO5Phtg5MrR9POx2UKJo4hg9wb3OQ35Ozupi8vfCgil1GF2uun44xNx+yTpJvkcTHWHZ2hvrT4sYaUlYlMQ9WZUh8ePoEiI4UlLke1FqGfRiiS/wWltA2GLLt+BVzthiQaNEoC1d7T0SuFlcbQ8obBNMBHEjqe5PJu1CU66Ddr3zrmrlTIMtHLWQvMLCTFBv3jGCFy6oa9v1lvXMn182BX8MFrPC+uqqess7gcZFojPazlaIryq1/nmLN/g+13764yddnA0v06IjapTaRfM6Y3hHcEpko/BZLuQjfoEt7xkSn4DDjGt49rgkLw/HkwIts+RDYhppv/loSjpXq44TJrv9Gaa8KelFHBx0Sz+lxljLWBO5ZIu66eGRjkDfLOLwCOpOQDaXjFwh53k3VIVL6KXYLssLqSUSfMC13juz5MP60sfCtXXpYxt9lFCqtLR8jdhzretPfxenjonKQE8kl7txG1yHFO4k8Ycdj8R2q9CWzd4d9vg5/IrcsLml4bImpTJWK4NQUozK6Sui7Bxy/yIgbKgws0txR9s144YD1QKnGcKbRP1dHjtamk3I02K35JhHiCUYjhgSXS9biAGhkgpypy/RodMfwU4Iv+VkbvTmZBkLO7P7Jj1sUB0S5C3AVaL6xusXkJxvpJ3Lkw9lvPuiBXFYGg0bqcc5Cl6+OwhXTaS+C7FjbVUmd+XmZzu4R+JbqEar7PVzMrJhPIzUvr43S/O1L/37hPtx8USNgnRwa9mOMV9GQAfN3wphDW8CwahZ3XYeQHFh+iRXPNTOCFkhtGQc6ntLzQ6xAIvK6j44oCuakMNHObQe34gis+uPDfcUAMUmmwzWPdGTosRTSrPT5zOBs/yEBS9FN2nNjlZsEJ7VG800Fcm1fhPLXSQG5tRtyzyE6Ldd0V+6RbUUkc2DvSlt5eeNsxaPQNBCGDkZ6Z+cUadFSVAESxd3C7O0M9uWuaXbQgb2lopVDTPZ9S/7e3eeNyOW8nO1wOo+q1VseaFkG/eIDC8iKCPCxgEfW37apLAHTVuljQTfCTp0rgIKgG40lCUjaUqAh9l7O6ZetPPlMiV9vI9YNbgcr4nLm9h1Tr/qBW7LGY0mZJ2FTFSZ64e92IyXGwkd3QFiNWrC8RZqral2/Jh7UG3OukOt0S6aTzYr0gA979aBqUu4x7Bsi73/1FN0KRI+iVKdJuc1AZa75xxw/KAoX9T0PmK1lrfbRB
+[26-Apr-2020 15:51:53 America/Sao_Paulo] key in Decrypt is: UVzW2jTtg8wNyYTWN1kOsihzHYJrxcwKD7AV2q@}
+[26-Apr-2020 15:51:53 America/Sao_Paulo] hmac in Decrypt is: îÈ#äª∏æÛ7È$9˙j0Ô1π6Z|§±H^«
+[26-Apr-2020 15:51:53 America/Sao_Paulo] iv in Decrypt is: K ¯<√¢◊kïbF ˙‰“k
+[26-Apr-2020 15:51:53 America/Sao_Paulo] data in Decrypt is: °≠yï≥cÊP	Â»◊DôÃ?òuõ«ü;0ÖtljZÓ˘5Æq1è‡
+[26-Apr-2020 15:51:53 America/Sao_Paulo] key in Decrypt is: ´_çG&8ﬂ®‹®T∞#˜;Q¨a¬Z‘·I$È|@ph£
+[26-Apr-2020 15:51:53 America/Sao_Paulo] hmac in Decrypt is: eYi‡{D?ﬁºætàA|ÄDâú	G´ﬂ¥¸|Â–0&Å
+[26-Apr-2020 15:51:53 America/Sao_Paulo] iv in Decrypt is: D≈	´ÁØΩq8K{Ù
+[26-Apr-2020 15:51:53 America/Sao_Paulo] data in Decrypt is: +^íL|˚NF¨	gEeÓÌ€Ÿ;(…£¿\y…Ωá–˚m≈Öûé"òéO%û–¥9í¶nu$d)Ù*ü[±I¡ôJ›'wÇŒ`>àlﬁ_å;ç)„ìQ‘òijmÀFBC‰Ãµ_éüabä.YVËåúx|q¶pÚ@¢Ù—¯ÛÙﬂé”AnÒ€≠≈ó]M!¥ôÃ'2%∫
+>’n©⁄Me4∑ÜGˆBÃÄÍ‰¿@®Xƒûh°lÕÏ+yÖã¨»´b&°ûXL$^ƒI∑0–v6ÿAöZ◊T¥⁄›¿•µòòÉÃá¡Çf.-VD+‘ù©'µI<ƒ&˜ä≈ÌUcf»˙ßnﬁãÆΩÅ‘6(Æ¶öÊ8I#I„¡WL˚j$–23ß®|óE‹≈lmÄZ›¡√îÏˆ;^-õÎ´◊´æ≈Ÿ˚.‚W›Ê`∞J3»€3‹1ÑÓ›ï¡lFÿs8≤R¸úw¬à%ã∑Hs‘å'3»^ê@=?ê¯Û◊ÚtLN¡[NG◊á‹pÂP
+q»ˇí¡∆MñUÛ_jΩVÚ®ˇ!…∏§ÒÔbı¥\ÇxãΩ∆}o∏ªñLª ¢∆r≤õéõ’bIêb[†#Àu´"ÉbbïJ∂å∏E>ÏwÔÃ»™˚wAe›/†{≈üS4í©á^zQeÄd•*ÅLΩ‘èe9Œ‰¯mÉì+G”Œ«e
+&é!É‹‹‰7‰ÏÓ¶//|("óQÖ⁄Îß„åM«Ïì§õ‰q1÷ù°æ¥¯±ÜîïâLC’ôR>Å"#Ö%.Gµ°üF(íˇ•¥Ü,ª~\ÌÜ$4J’ﬁ”—+Öï∆–ÚÜ¡4¿G:û‰Ún‘%:Ë7kﬂ:ÊÆT»2—ÀYÃ,$≈˝„!rÍÜΩøYo\…ıÛ`W¡k</Æ™ß¨≥∏dZ#=¨ÂhäÚ´_Áò≥ÉÌwÔÆ2uŸ¿“˝:"6©M§_3¶7Ñw¶J?íÓB7ËﬁÒë)¯8∆∑èkÇB¸y0"€>D6!¶õˇñÑ£•z∏·2kø—ök¬ûîQ¡«D≥˙\eåµÅ;ñHªÆû‰ÚŒ/
+[26-Apr-2020 15:51:53 America/Sao_Paulo] rawPayload is: {"paymentRequest":{"currencyCode":"BRL","total":"10"},"userData":{"userFirstName":"Glauber","userLastName":"Gadelha","userFullName":"Glauber Gadelha","userName":"glaubergad@gmail.com","userEmail":"glaubergad@gmail.com","encUserId":"ViGK/Rc2aqUghWx4fcXWfnQ/AdeZ2Zq46oC+RHeVH/0="},"creationTimeStamp":1587927097517,"paymentInstrument":{"id":"CFCQsFNtg/PpZ98HJ0cyVGVISuUrLeRgxllphq7V9m8=","lastFourDigits":"4821","binSixDigits":"400552","billingAddress":{"lastUpdateTimestamp":1587673867454,"personName":"Glauber Gadelha","firstName":"Glauber","lastName":"Gadelha","line1":"12 Passagem Monte Castelo","streetNumber":"12","streetName":"Passagem Monte Castelo","line2":"Marambaia","city":"Bel√©m","stateProvinceCode":"PA","postalCode":"66615440","countryCode":"BR","phone":"91980834019","default":false},"verificationStatus":"VERIFIED","expired":false,"cardArts":{"cardArt":[{"baseImageFileName":"https://sandbox.secure.checkout.visa.com/VmeCardArts/VKH0VJo_jqq0O0eo6VQcJ3Kvl8pobgOroMZc8dGTSas.png","height":105,"width":164}]},"issuerBid":"14","nameOnCard":"Glauber Gadelha","cardFirstName":"Glauber","cardLastName":"Gadelha","expirationDate":{"month":"04","year":"2027"},"paymentType":{"cardBrand":"VISA","cardType":"CREDIT"}},"riskData":{"advice":"UNAVAILABLE","score":0,"avsResponseCode":"Y","cvvResponseCode":"M","ageOfAccount":2},"visaCheckoutGuest":false,"walletInfo":{"walletName":"VISA_CHECKOUT"},"paymentMethodType":"PAN"}
+[26-Apr-2020 16:21:28 America/Sao_Paulo] Response is: Array
+(
+    [encKey] => qZegPrbIjkRpQ8yFyyW8hkgwPM15Q4YoG+XWwrjvA0Lz/zhi69uzNMkY0u42pFP9QBT5Wz+5OpN9Iw+eg4/sqdLoWaMQORXVlYO/fcRRJioQ+yf3NmthiRpz/1rfOi+n
+    [encPaymentData] => 22uev0fy/ARa8p9Yyf92bzPy7nyhVvTyuMHjvTefDX5WeHKs3Ov1oanD5PDLi5cgHd2vgAETU2sjFs0POufJP+S7BNNh3C+D0Cwu2KDZzVadwTAbEqlzp2KGnHP1frM8rKbtqb5S+hUxos7x02VTD0GRry6LzBBQy6Rzzw5QNys2lR0qZczb9pGPacDRVfADc66VEbVCgXqq566tsZWMeSefno7HEulwAfrW6GvL6lNHhdNoHt/nvlhtIHFsJfQ6sFJirKzTQ3gS1dU3Q7LWoxLVFHyBdfP6vNzTiyk+4pAcA2LIYxhlsEi9COYFzwoYl5b08C/KRCZAc2TlfIc2OaVVCsA701bO6q7sSMYVQSIxTro2bwsxK1von+ZCpv86ig3qP/QUZPB7LMtvij7e4FSMceCTK+2G21PHbkF9pdPQT9uHxeLNaDiluC1GP7Bm7hBlgG/knHIk8v/GeVZOCxxGDzNh6uYyB8CK82puBprlC/yEW0qHaVuu1HjR8RkvTxxy+XvEWWSyzr7jGMfXUZRLexT1UdWiupsqMaExiy84IDoRdqU4xI7IA05OpJ4fPWD5a3QAnDmGyAPo5GGQB3C0lOl1GadGo+5UywyLubmPFr0Pts9YgxCWRah15LWYw/CnZOZyB7TVfTEDao6xYrXfMQoIkMrSWOtoN0G6r59BX/VMwKG6pD3bJxHZHV6hGtvl5OZPOpEH+eIA3arJiIZEK/UVjvPkOoZazzSwOAWYZv/6CSynq91H3piJYkSfz/hJqZzi5NrnoBR5ugM87cQXYQd4Fktyb3fnoSrHkTSQDxG0KyDRySxxFihL5s4o/ulC4fiVuVhxz7WiDach1sGmtszvs1uXaZr1WNbZHmA9sVopZ58P4MV8GzGLsZVdaNKa5zgZHjxeNzPr53Fdw9MODCA5hVqfeTvgWubv2qM9R/hLYkWtIC8V5jbJ5yc7URupkM5nGggyoBeb+BHwKqIyiLBcTlu9ptye+59+MgxwGIoH7LqBbZqDC56wgQvPYbskhggiNOAqbOKxrRCJUkOvF6M2Zl0jURuoooNBHYt7yNfG00OMlI6THTlOW8ZXwwbGGMvlIBqZN3w43z0hu2E5+OqIgEeE5ucMNrkLh9HdhNMFWHQoC8p/8twFjvljDpF2GWm+DGvVvdr9Z8yah7NLHTOVL3wm6iCpndk7DcDkKus7etBMw7Gu6sBRbY+H65ccS4b55MVS3KAQmpD4e0L710GkUaGEpm+8uxzb1A1CyEn8AFSUwy9OwJjUXImMPpid56IyD655Fsz3/MnuRMIoh7XKpWyNl50/wSlKCfXs57kNBKwOg+HOfSuxWe3VhJTJiT3DT3eUwd327r0k6sUmApkAoaVWiks5e2Up7hnMk/paNJ77i3Coq6RD/2/LS2cSy92suoVknnyKtbQ3r22kBXk1XAPYzOxOE3y0g3rGuioSc9Qz7Lgki2IYgbXlPtb36EWdFd7mtseHFF6FT1SiXEfNYJLxOE3hPASrJd2BGdqQmuRDKMvY/xHmJ5DgB38j153Dg7XjDuUsTOmXmXRC+rM01ZwF5d/8fWb7WWvaj6kMzwFtjJPg/VfkFSvrjcbl8yix+odYKPDE3gz5l7w6IepGoI7i1LdSicYmcqTN4UZfTi0rfZ6OIIs2AKClzZDrAL6MvTedVwH4O4kr/c3//1GTip/ZBNy3ULinTJfHcAsB9LY4IXTFBTsMeJhIct9ZVhM+Onc9G1SMbHwa1NJgFlGMOHnTLgMmVCX7DeDmOm+iWct6pwkjSrR16XvIr4ejsIHn1SVROcagviqBPxoTsxUdks0L56JCBfyGtJ261zv1Qc/iluj7PwJ+Xe/afkivgA+Tt598nm4dFMRoFx9Gh5dRrSw4UivPb+WrLYZqFxd4O+qWubnArXuIBoPgaPXlauQxBmGaLbWFxkAiN1jkNsr4K5wylBZ7Z432DetiPcI/PClgLds+m1USDBId
+    [partialPaymentInstrument] => Array
+        (
+            [lastFourDigits] => 4821
+            [paymentType] => Array
+                (
+                    [cardBrand] => VISA
+                    [cardType] => CREDIT
+                )
+
+        )
+
+    [paymentMethodType] => PAN
+    [callid] => 1736176055146569801
+    [vInitRequest] => Array
+        (
+            [apikey] => SQUA4E7EW5NW5P7TAEO621VbxRy5FyaFtgdf7U4Z2qepr7tY8
+            [encryptionKey] => GREE00F9BV2T40ZSMKQY13pX7H0FpT0rTuJkR5OWpDtMVdjRI
+            [settings] => Array
+                (
+                    [logoUrl] => https://www.amazonica.belem.br/imagens/logo.jpg
+                    [widgetStyle] => OVERLAY
+                    [buttonPosition] => RELATIVE
+                    [shipping] => Array
+                        (
+                            [collectShipping] => false
+                            [acceptedRegions] => Array
+                                (
+                                    [0] => BR
+                                )
+
+                        )
+
+                    [payment] => Array
+                        (
+                            [billingCountries] => Array
+                                (
+                                    [0] => PR
+                                    [1] => PT
+                                    [2] => PW
+                                    [3] => PY
+                                    [4] => QA
+                                    [5] => AC
+                                    [6] => AE
+                                    [7] => AF
+                                    [8] => AG
+                                    [9] => AI
+                                    [10] => AL
+                                    [11] => AM
+                                    [12] => AN
+                                    [13] => AO
+                                    [14] => AR
+                                    [15] => AS
+                                    [16] => RE
+                                    [17] => AT
+                                    [18] => AU
+                                    [19] => AW
+                                    [20] => AX
+                                    [21] => AZ
+                                    [22] => RO
+                                    [23] => BA
+                                    [24] => BB
+                                    [25] => RS
+                                    [26] => BD
+                                    [27] => BE
+                                    [28] => RU
+                                    [29] => BF
+                                    [30] => RW
+                                    [31] => BG
+                                    [32] => BH
+                                    [33] => BI
+                                    [34] => BJ
+                                    [35] => BM
+                                    [36] => BN
+                                    [37] => BO
+                                    [38] => SA
+                                    [39] => SB
+                                    [40] => BR
+                                    [41] => SC
+                                    [42] => BS
+                                    [43] => SE
+                                    [44] => BT
+                                    [45] => SG
+                                    [46] => SH
+                                    [47] => BW
+                                    [48] => SI
+                                    [49] => BY
+                                    [50] => SJ
+                                    [51] => BZ
+                                    [52] => SK
+                                    [53] => SL
+                                    [54] => SM
+                                    [55] => SN
+                                    [56] => SO
+                                    [57] => CA
+                                    [58] => SR
+                                    [59] => CC
+                                    [60] => CD
+                                    [61] => ST
+                                    [62] => SV
+                                    [63] => CF
+                                    [64] => CG
+                                    [65] => CH
+                                    [66] => CI
+                                    [67] => SZ
+                                    [68] => CK
+                                    [69] => CL
+                                    [70] => CM
+                                    [71] => CN
+                                    [72] => CO
+                                    [73] => TA
+                                    [74] => TC
+                                    [75] => CR
+                                    [76] => TD
+                                    [77] => TF
+                                    [78] => CV
+                                    [79] => TG
+                                    [80] => TH
+                                    [81] => CX
+                                    [82] => CY
+                                    [83] => TJ
+                                    [84] => TK
+                                    [85] => CZ
+                                    [86] => TL
+                                    [87] => TM
+                                    [88] => TN
+                                    [89] => TO
+                                    [90] => TR
+                                    [91] => TT
+                                    [92] => DE
+                                    [93] => TV
+                                    [94] => TW
+                                    [95] => TZ
+                                    [96] => DJ
+                                    [97] => DK
+                                    [98] => DM
+                                    [99] => DO
+                                    [100] => UA
+                                    [101] => UG
+                                    [102] => DZ
+                                    [103] => EC
+                                    [104] => US
+                                    [105] => EE
+                                    [106] => EG
+                                    [107] => UY
+                                    [108] => UZ
+                                    [109] => VA
+                                    [110] => VC
+                                    [111] => ER
+                                    [112] => ES
+                                    [113] => VE
+                                    [114] => ET
+                                    [115] => VG
+                                    [116] => VI
+                                    [117] => VN
+                                    [118] => VU
+                                    [119] => FI
+                                    [120] => FJ
+                                    [121] => FK
+                                    [122] => FM
+                                    [123] => FO
+                                    [124] => FR
+                                    [125] => WF
+                                    [126] => GA
+                                    [127] => GB
+                                    [128] => WS
+                                    [129] => GD
+                                    [130] => GE
+                                    [131] => GF
+                                    [132] => GG
+                                    [133] => GH
+                                    [134] => GI
+                                    [135] => GL
+                                    [136] => GM
+                                    [137] => GN
+                                    [138] => GP
+                                    [139] => GQ
+                                    [140] => GR
+                                    [141] => GT
+                                    [142] => GU
+                                    [143] => GW
+                                    [144] => GY
+                                    [145] => HK
+                                    [146] => HN
+                                    [147] => HR
+                                    [148] => HT
+                                    [149] => YE
+                                    [150] => HU
+                                    [151] => ID
+                                    [152] => YT
+                                    [153] => IE
+                                    [154] => IL
+                                    [155] => IM
+                                    [156] => IN
+                                    [157] => IO
+                                    [158] => ZA
+                                    [159] => IQ
+                                    [160] => IS
+                                    [161] => IT
+                                    [162] => ZM
+                                    [163] => JE
+                                    [164] => ZW
+                                    [165] => JM
+                                    [166] => JO
+                                    [167] => JP
+                                    [168] => KE
+                                    [169] => KG
+                                    [170] => KH
+                                    [171] => KI
+                                    [172] => KM
+                                    [173] => KN
+                                    [174] => KR
+                                    [175] => KW
+                                    [176] => KY
+                                    [177] => KZ
+                                    [178] => LA
+                                    [179] => LB
+                                    [180] => LC
+                                    [181] => LI
+                                    [182] => LK
+                                    [183] => LR
+                                    [184] => LS
+                                    [185] => LT
+                                    [186] => LU
+                                    [187] => LV
+                                    [188] => LY
+                                    [189] => MA
+                                    [190] => MC
+                                    [191] => MD
+                                    [192] => ME
+                                    [193] => MG
+                                    [194] => MH
+                                    [195] => MK
+                                    [196] => ML
+                                    [197] => MN
+                                    [198] => MO
+                                    [199] => MP
+                                    [200] => MQ
+                                    [201] => MR
+                                    [202] => MS
+                                    [203] => MT
+                                    [204] => MU
+                                    [205] => MV
+                                    [206] => MW
+                                    [207] => MX
+                                    [208] => MY
+                                    [209] => MZ
+                                    [210] => NA
+                                    [211] => NC
+                                    [212] => NE
+                                    [213] => NF
+                                    [214] => NG
+                                    [215] => NI
+                                    [216] => NL
+                                    [217] => NO
+                                    [218] => NP
+                                    [219] => NR
+                                    [220] => NU
+                                    [221] => NZ
+                                    [222] => OM
+                                    [223] => PA
+                                    [224] => PE
+                                    [225] => PF
+                                    [226] => PG
+                                    [227] => PH
+                                    [228] => PK
+                                    [229] => PL
+                                    [230] => PM
+                                    [231] => PN
+                                )
+
+                        )
+
+                )
+
+            [paymentRequest] => Array
+                (
+                    [currencyCode] => BRL
+                    [total] => 10.00
+                )
+
+            [parentUrl] => https://www.amazonica.belem.br/testapi/
+            [browserLocale] => pt_BR
+            [clientId] => 5bd0f2f0-a6ce-19f0-2b79-1ef92e0c3e02
+            [allowEnrollment] => 1
+            [formFactorMerchantOverride] => 
+            [uxByFormFactor] => Array
+                (
+                    [web] => RXO
+                    [sdkLite] => RXO
+                    [hybridWeb] => RXO
+                    [other] => RXO
+                )
+
+            [allowCustomBranding] => 
+            [guestCheckout] => 
+            [currencyFormat] => currencyCode ###.###.###,##
+            [srcDisabledCountries] => AE,AR,AS,AU,AW,BE,BG,CA,CH,CL,CN,CO,CR,CX,DE,DK,ES,FI,FO,FR,GE,GF,GL,GR,GS,GU, GW,GY,HK,HR,IE,IN,IS,IT,JP,KW,ME,MY,NL,NO,NZ,PL,PR,PS,PT,PW,PY,QA,QR,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SH,SR,TF,TG,TH,TJ,TK,TR,TT,TW,UA,UM,VC,VG,VI,ZA
+            [enableUserDataPrefill] => 
+            [logoUrl] => https://www.amazonica.belem.br/imagens/logo.jpg
+            [displayName] => Associacao Amazonica
+        )
+
+)
+
+[26-Apr-2020 16:21:28 America/Sao_Paulo] Secret: UVzW2jTtg8wNyYTWN1kOsihzHYJrxcwKD7AV2q@}
+[26-Apr-2020 16:21:28 America/Sao_Paulo] encKey: qZegPrbIjkRpQ8yFyyW8hkgwPM15Q4YoG+XWwrjvA0Lz/zhi69uzNMkY0u42pFP9QBT5Wz+5OpN9Iw+eg4/sqdLoWaMQORXVlYO/fcRRJioQ+yf3NmthiRpz/1rfOi+n
+[26-Apr-2020 16:21:28 America/Sao_Paulo] encPaymentData: 22uev0fy/ARa8p9Yyf92bzPy7nyhVvTyuMHjvTefDX5WeHKs3Ov1oanD5PDLi5cgHd2vgAETU2sjFs0POufJP+S7BNNh3C+D0Cwu2KDZzVadwTAbEqlzp2KGnHP1frM8rKbtqb5S+hUxos7x02VTD0GRry6LzBBQy6Rzzw5QNys2lR0qZczb9pGPacDRVfADc66VEbVCgXqq566tsZWMeSefno7HEulwAfrW6GvL6lNHhdNoHt/nvlhtIHFsJfQ6sFJirKzTQ3gS1dU3Q7LWoxLVFHyBdfP6vNzTiyk+4pAcA2LIYxhlsEi9COYFzwoYl5b08C/KRCZAc2TlfIc2OaVVCsA701bO6q7sSMYVQSIxTro2bwsxK1von+ZCpv86ig3qP/QUZPB7LMtvij7e4FSMceCTK+2G21PHbkF9pdPQT9uHxeLNaDiluC1GP7Bm7hBlgG/knHIk8v/GeVZOCxxGDzNh6uYyB8CK82puBprlC/yEW0qHaVuu1HjR8RkvTxxy+XvEWWSyzr7jGMfXUZRLexT1UdWiupsqMaExiy84IDoRdqU4xI7IA05OpJ4fPWD5a3QAnDmGyAPo5GGQB3C0lOl1GadGo+5UywyLubmPFr0Pts9YgxCWRah15LWYw/CnZOZyB7TVfTEDao6xYrXfMQoIkMrSWOtoN0G6r59BX/VMwKG6pD3bJxHZHV6hGtvl5OZPOpEH+eIA3arJiIZEK/UVjvPkOoZazzSwOAWYZv/6CSynq91H3piJYkSfz/hJqZzi5NrnoBR5ugM87cQXYQd4Fktyb3fnoSrHkTSQDxG0KyDRySxxFihL5s4o/ulC4fiVuVhxz7WiDach1sGmtszvs1uXaZr1WNbZHmA9sVopZ58P4MV8GzGLsZVdaNKa5zgZHjxeNzPr53Fdw9MODCA5hVqfeTvgWubv2qM9R/hLYkWtIC8V5jbJ5yc7URupkM5nGggyoBeb+BHwKqIyiLBcTlu9ptye+59+MgxwGIoH7LqBbZqDC56wgQvPYbskhggiNOAqbOKxrRCJUkOvF6M2Zl0jURuoooNBHYt7yNfG00OMlI6THTlOW8ZXwwbGGMvlIBqZN3w43z0hu2E5+OqIgEeE5ucMNrkLh9HdhNMFWHQoC8p/8twFjvljDpF2GWm+DGvVvdr9Z8yah7NLHTOVL3wm6iCpndk7DcDkKus7etBMw7Gu6sBRbY+H65ccS4b55MVS3KAQmpD4e0L710GkUaGEpm+8uxzb1A1CyEn8AFSUwy9OwJjUXImMPpid56IyD655Fsz3/MnuRMIoh7XKpWyNl50/wSlKCfXs57kNBKwOg+HOfSuxWe3VhJTJiT3DT3eUwd327r0k6sUmApkAoaVWiks5e2Up7hnMk/paNJ77i3Coq6RD/2/LS2cSy92suoVknnyKtbQ3r22kBXk1XAPYzOxOE3y0g3rGuioSc9Qz7Lgki2IYgbXlPtb36EWdFd7mtseHFF6FT1SiXEfNYJLxOE3hPASrJd2BGdqQmuRDKMvY/xHmJ5DgB38j153Dg7XjDuUsTOmXmXRC+rM01ZwF5d/8fWb7WWvaj6kMzwFtjJPg/VfkFSvrjcbl8yix+odYKPDE3gz5l7w6IepGoI7i1LdSicYmcqTN4UZfTi0rfZ6OIIs2AKClzZDrAL6MvTedVwH4O4kr/c3//1GTip/ZBNy3ULinTJfHcAsB9LY4IXTFBTsMeJhIct9ZVhM+Onc9G1SMbHwa1NJgFlGMOHnTLgMmVCX7DeDmOm+iWct6pwkjSrR16XvIr4ejsIHn1SVROcagviqBPxoTsxUdks0L56JCBfyGtJ261zv1Qc/iluj7PwJ+Xe/afkivgA+Tt598nm4dFMRoFx9Gh5dRrSw4UivPb+WrLYZqFxd4O+qWubnArXuIBoPgaPXlauQxBmGaLbWFxkAiN1jkNsr4K5wylBZ7Z432DetiPcI/PClgLds+m1USDBId
+[26-Apr-2020 16:21:28 America/Sao_Paulo] key in Decrypt is: UVzW2jTtg8wNyYTWN1kOsihzHYJrxcwKD7AV2q@}
+[26-Apr-2020 16:21:28 America/Sao_Paulo] hmac in Decrypt is: ©ó†>∂»éDiCÃÖÀ%ºÜH0<ÕyCÜ(Â÷¬∏ÔB
+[26-Apr-2020 16:21:28 America/Sao_Paulo] iv in Decrypt is: Ûˇ8bÎ€≥4…“Ó6§S˝
+[26-Apr-2020 16:21:28 America/Sao_Paulo] data in Decrypt is: @˘[?π:ì}#ûÉèÏ©“ËY£9’ïÉø}ƒQ&*˚'˜6kaâsˇZﬂ:/ß
+[26-Apr-2020 16:21:28 America/Sao_Paulo] key in Decrypt is: üØX˜	]˚DuzÓÛc:Ö;y+%O—·≈8ûu(
+[26-Apr-2020 16:21:28 America/Sao_Paulo] hmac in Decrypt is: €kûøGÚ¸ZÚüX…ˇvo3ÚÓ|°VÙÚ∏¡„Ω7ü~
+[26-Apr-2020 16:21:28 America/Sao_Paulo] iv in Decrypt is: Vxr¨‹Îı°©√‰Àãó 
+[26-Apr-2020 16:21:28 America/Sao_Paulo] data in Decrypt is: ›ØÄSk#Õ:Á…?‰ª”a‹/É–,.ÿ†ŸÕVù¡0©sßbÜúsı~≥<¨¶Ì©æR˙1¢ŒÒ”eSAëØ.ãÃPÀ§sœP7+6ï*eÃ€ˆëèi¿—UsÆïµBÅz™ÁÆ≠±ïåy'üûé«Èp˙÷ËkÀÍSGÖ”hﬂÁæXm ql%Ù:∞Rb¨¨”Cx’’7C≤÷£’|ÅuÛ˙º‹”ã)>‚êb»ce∞HΩÊœ
+óñÙ/ D&@sdÂ|á69•U
+¿;”VŒÍÆÏH∆A"1N∫6o1+[ËüÊB¶ˇ:äÍ?Ùd{,Àoä>ﬁ‡Tåq‡ì+ÌÜ€S«nA}•”–O€á≈‚Õh8•∏-F?∞fÓeÄo‰úr$Úˇ∆yVNF3aÍÊ2¿äÛjnöÂ¸Ñ[Jái[Æ‘x—Ò/Or˘{ƒYd≤Œæ„«◊QîK{ıQ’¢∫õ*1°1ã/8 :v•8ƒé»NN§û=`˘kt
+[26-Apr-2020 16:21:28 America/Sao_Paulo] rawPayload is: {"paymentRequest":{"currencyCode":"BRL","total":"10"},"userData":{"userFirstName":"Glauber","userLastName":"Gadelha","userFullName":"Glauber Gadelha","userName":"glaubergad@gmail.com","userEmail":"glaubergad@gmail.com","encUserId":"ViGK/Rc2aqUghWx4fcXWfnQ/AdeZ2Zq46oC+RHeVH/0="},"creationTimeStamp":1587928876141,"paymentInstrument":{"id":"CFCQsFNtg/PpZ98HJ0cyVGVISuUrLeRgxllphq7V9m8=","lastFourDigits":"4821","binSixDigits":"400552","billingAddress":{"lastUpdateTimestamp":1587673867454,"personName":"Glauber Gadelha","firstName":"Glauber","lastName":"Gadelha","line1":"12 Passagem Monte Castelo","streetNumber":"12","streetName":"Passagem Monte Castelo","line2":"Marambaia","city":"Bel√©m","stateProvinceCode":"PA","postalCode":"66615440","countryCode":"BR","phone":"91980834019","default":false},"verificationStatus":"VERIFIED","expired":false,"cardArts":{"cardArt":[{"baseImageFileName":"https://sandbox.secure.checkout.visa.com/VmeCardArts/VKH0VJo_jqq0O0eo6VQcJ3Kvl8pobgOroMZc8dGTSas.png","height":105,"width":164}]},"issuerBid":"14","nameOnCard":"Glauber Gadelha","cardFirstName":"Glauber","cardLastName":"Gadelha","expirationDate":{"month":"04","year":"2027"},"paymentType":{"cardBrand":"VISA","cardType":"CREDIT"}},"riskData":{"advice":"UNAVAILABLE","score":0,"avsResponseCode":"Y","cvvResponseCode":"M","ageOfAccount":2},"visaCheckoutGuest":false,"walletInfo":{"walletName":"VISA_CHECKOUT"},"paymentMethodType":"PAN"}
